@@ -1,0 +1,25 @@
+{
+  "name": "web-loader",
+  "version": "1.0.0",
+  "description": "load javascript or css files in browser by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanliwei/web-loader.git"
+  },
+  "keywords": [
+    "load",
+    "javascript",
+    "css",
+    "config"
+  ],
+  "author": "yuanliwei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yuanliwei/web-loader/issues"
+  },
+  "homepage": "https://github.com/yuanliwei/web-loader#readme"
+}
