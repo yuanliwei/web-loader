@@ -4,7 +4,7 @@ load javascript or css files in browser by javascript
 ## load javascript or css
 - basic use
   ```javascript
-  const LoadES6 = require('web-loader');
+  const LoadES6 = require('@yuanliwei/web-loader');
   new LoadES6()
     .load("/src/js/jquery.js")
     .load("/jquery-ui.min.css")
@@ -30,7 +30,7 @@ load javascript or css files in browser by javascript
   ```
 - script
   ```javascript
-  const LoadES6 = require('web-loader');
+  const LoadES6 = require('@yuanliwei/web-loader');
   new LoadES6()
     .load("/config.js")
     .load("jquery", "jqueryui")
