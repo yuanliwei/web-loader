@@ -1,6 +1,6 @@
 {
   "name": "@yuanliwei/web-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "load javascript or css files in browser by javascript",
   "main": "index.js",
   "scripts": {

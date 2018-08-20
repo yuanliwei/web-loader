@@ -1,4 +1,4 @@
-module.exports = class LoadES6 {
+class LoadES6 {
 
   constructor(promise) {
     this.promise = promise || Promise.resolve()
@@ -128,3 +128,5 @@ module.exports = class LoadES6 {
 LoadES6.loaded = {};
 
 LoadES6.configuration = {};
+
+module.exports = LoadES6
